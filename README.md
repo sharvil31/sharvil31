@@ -2,11 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Sharvil Amburle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>I’m a passionate Frontend Developer focused on building modern, fast, and responsive web applications using React, Next.js, Redux Toolkit, and Tailwind CSS. I enjoy crafting clean UI, smooth UX, and real-world product experiences.</p>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvil31&label=Profile%20views&color=0e75b6&style=flat" alt="sharvil31" /> </p>
 
-- 🌱 I’m currently learning **DSA, Redux Toolkit, React Native**
+- 🌱 I’m currently learning **DSA, Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at - [https://sharvil-portfolio.netlify.app/](https://sharvil-portfolio.netlify.app/)
 
