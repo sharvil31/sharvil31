@@ -1,5 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Redux+Toolkit+%7C+Tailwind+CSS;Building+Modern+%26+Scalable+UIs" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sharvil Amburle</h1>
 <h3 align="center">A frontend developer from India</h3>
 <p>I’m a passionate Frontend Developer focused on building modern, fast, and responsive web applications using React, Next.js, Redux Toolkit, and Tailwind CSS. I enjoy crafting clean UI, smooth UX, and real-world product experiences.</p>
