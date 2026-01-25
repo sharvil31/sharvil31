@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvil31&label=Profile%20views&color=0e75b6&style=flat" alt="sharvil31" /> </p>
 
-- 🌱 I’m currently learning **DSA, Redux Toolkit**
+- 🌱 I’m currently learning **Computer Networking**
 
 - 👨‍💻 All of my projects are available at - [https://sharvil-portfolio.netlify.app/](https://sharvil-portfolio.netlify.app/)
 
